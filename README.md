@@ -1,2 +1,0 @@
-# vacuna
-Proyecto prueba
